@@ -1,4 +1,3 @@
-
 import authOptions from "@/app/auth/AuthOptions";
 import { patchIssueSchema } from "@/app/validationSchema";
 import prisma from "@/prisma/client";
